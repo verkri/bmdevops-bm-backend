@@ -64,8 +64,8 @@
 
 		<dependency>
 			<groupId>hu.bankmonitor.apis</groupId>
-			<artifactId>petstore</artifactId>
-			<version>1.0.6</version>
+			<artifactId>bm_petstore</artifactId>
+			<version>1.0.9</version>
 		</dependency>
 		
  </dependencies>
