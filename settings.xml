@@ -8,7 +8,7 @@
       <repositories>
         <repository>
           <id>bankmonitor-bm-apis</id>
-          <url>https://bankmonitor-571188843450.d.codeartifact.eu-west-1.amazonaws.com/maven/bm-apis/</url>
+          <url>https://bankmonitor-767398085282.d.codeartifact.eu-west-1.amazonaws.com/maven/bm-apis/</url>
         </repository>
       </repositories>
     </profile>
